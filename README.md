@@ -1,2 +1,2 @@
-# amaliy_3
- 
+# captcha_tekshirsh
+ captcha bot aniqlash
